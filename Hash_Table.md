@@ -12,7 +12,7 @@
   * C++：`unordered_map`, `unordered_set`
   * Python：`dict`, `set`
   
-![哈希表结构示意图](hash_table.png)
+![哈希表结构示意图](image/hash_table.png)
 ---
 
 ## 2. 哈希表的经典应用场景
@@ -159,6 +159,7 @@ public:
 
 > **查找靠 `map`，分组靠 `map`，存在性靠 `set`**
 > —— 面试高频，三大应用场景几乎覆盖了哈希表的主要用法。
+
 
 
 
